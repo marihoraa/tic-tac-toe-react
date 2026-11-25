@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', monospace;
+  background-color: #1d1d2b;
+  color: #f4f4f4;
+  /* tira o suavizado pra fonte ficar pixelada de verdade */
+  -webkit-font-smoothing: none;
+  font-smooth: never;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 22px;
+  margin-bottom: 30px;
+  color: #ffd84a;
+  text-shadow: 4px 4px 0 #b8452c;
+}
