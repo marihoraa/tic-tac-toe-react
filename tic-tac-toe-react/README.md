@@ -43,7 +43,7 @@ Inicie a aplicação:
 npm run dev
 ```
 
-Depois é só abrir no navegador o endereço que aparecer no terminal (normalmente http://localhost:5173).
+Depois é só abrir no navegador o endereço que aparecer no terminal (normalmente http://localhost:...).
 
 ## Estrutura
 
@@ -52,4 +52,4 @@ Depois é só abrir no navegador o endereço que aparecer no terminal (normalmen
 
 ## Aluna
 
-Maria Eduarda Cavalcante Hora
+Maria Eduarda Cavalcante Hora - 01603709
