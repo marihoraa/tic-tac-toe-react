@@ -6,7 +6,8 @@ O jogo começa sempre com o X, alterna as jogadas entre X e O, não deixa jogar 
 
 ## Captura de tela
 
-![Jogo da velha funcionando](captura.png)
+![Jogo da velha funcionando](<img width="700" height="650" alt="captura" src="https://github.com/user-attachments/assets/20dcc100-31c4-425e-a567-452852398a29" />
+
 
 ## Tecnologias
 
