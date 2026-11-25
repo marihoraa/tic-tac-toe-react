@@ -1,6 +1,6 @@
 # Jogo da Velha em React
 
-Projeto feito para a disciplina de Frontend Frameworks. É um jogo da velha para dois jogadores, rodando no navegador, desenvolvido a partir do que fizemos em sala.
+Projeto feito para a disciplina de Frontend Frameworks. É um jogo da velha para dois jogadores, rodando no navegador.
 
 O jogo começa sempre com o X, alterna as jogadas entre X e O, não deixa jogar numa casa que já está ocupada e mostra quando alguém ganha ou quando dá empate. O botão "Novo Jogo" limpa o tabuleiro e recomeça a partida.
 
